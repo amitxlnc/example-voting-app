@@ -1,6 +1,10 @@
 Example Voting App
 =========
 
+Build Triggers
+=========
+First Trigger
+
 Getting started
 ---------------
 
