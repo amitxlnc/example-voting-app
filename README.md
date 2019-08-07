@@ -4,6 +4,7 @@ Example Voting App
 Build Triggers
 =========
 First Trigger
+Second Trigger for Node JS
 
 Getting started
 ---------------
